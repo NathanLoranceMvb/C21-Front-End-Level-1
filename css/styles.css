@@ -1,6 +1,20 @@
-.blue{
-    color:rgb(9, 156, 132); 
-    font-size: 30px;
+button{
+    background-color: black;
+    font-size: 40px;
     text-align: center;
-    margin-top:-10px;
+    color: blanchedalmond;
 }
+
+.blue{
+    color:rgb(172, 199, 201);
+    font-size: 20px;
+    text-align: center;
+    margin-top:1px;}
+
+.red{
+    color:rgb(255, 255, 255);
+    font-size: 10px;
+    text-align: center;
+    margin-top:1px;}
+
+    body{background-color: rgb(24, 26, 46);}
